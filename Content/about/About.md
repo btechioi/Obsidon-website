@@ -3,14 +3,10 @@ title: About
 date: 2024-12-11
 ---
 ---
-title: About
-date: 2024-12-11
----
-
 # About  
 ----  
 
-![[avatar.png|200]]
+![[avatar.png]]
 
 
 ## 👨‍💼 - Contact Info  
